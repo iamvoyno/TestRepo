@@ -1,2 +1,4 @@
 Change  1 in File1
 Change 2 in File1
+
+Change 3 made in bug123 brach to shocase stashing
